@@ -1,0 +1,103 @@
+{
+  "brand": {
+    "name": "Sandra Estrela",
+    "logo": "assets/branding/logo.png"
+  },
+  "hero": {
+    "title": "Fotografia que sente.",
+    "subtitle": "Casamentos, pré-wedding e histórias reais.",
+    "cover": "assets/photos/gal_1.jpg"
+  },
+  "about": {
+    "avatar": "assets/branding/avatar.png",
+    "text": "Sou apaixonada por contar histórias verdadeiras, com luz natural e direção leve para que tudo pareça tão espontâneo quanto foi vivido.",
+    "quote": "Fotografar é escrever com a luz aquilo que as palavras não dão conta."
+  },
+  "contacts": {
+    "whatsapp": "55XXXXXXXXXX",
+    "email": "contato@seudominio.com",
+    "instagram": "https://instagram.com/seuuser"
+  },
+  "categories": [
+    "Casamento",
+    "Pré-wedding",
+    "Família",
+    "Lifestyle"
+  ],
+  "services": [
+    {
+      "title": "Casamentos",
+      "badge": "8h a 12h",
+      "text": "Cobertura completa com foco em momentos espontâneos.",
+      "cover": "assets/photos/gal_2.jpg"
+    },
+    {
+      "title": "Pré-wedding",
+      "badge": "2h a 3h",
+      "text": "Direção leve, locais com significado e luz suave.",
+      "cover": "assets/photos/gal_3.jpg"
+    },
+    {
+      "title": "Família",
+      "badge": "1h a 2h",
+      "text": "Em casa ou em locação externa, sem poses engessadas.",
+      "cover": "assets/photos/gal_4.jpg"
+    }
+  ],
+  "portfolio": [
+    {
+      "title": "Bia & Lu",
+      "subtitle": "Pôr do sol na praia",
+      "category": "Pré-wedding",
+      "cover": "assets/photos/gal_5.jpg"
+    },
+    {
+      "title": "Ana & Rafa",
+      "subtitle": "Celebração no campo",
+      "category": "Casamento",
+      "cover": "assets/photos/gal_6.jpg"
+    },
+    {
+      "title": "Marina & Theo",
+      "subtitle": "Manhã em casa",
+      "category": "Família",
+      "cover": "assets/photos/gal_7.jpg"
+    },
+    {
+      "title": "Carol & Vini",
+      "subtitle": "Centro histórico",
+      "category": "Pré-wedding",
+      "cover": "assets/photos/gal_8.jpg"
+    },
+    {
+      "title": "Isis & João",
+      "subtitle": "Mini wedding urbano",
+      "category": "Casamento",
+      "cover": "assets/photos/gal_9.jpg"
+    },
+    {
+      "title": "Alice & Ben",
+      "subtitle": "Lifestyle à tarde",
+      "category": "Lifestyle",
+      "cover": "assets/photos/gal_10.jpg"
+    },
+    {
+      "title": "Luiza & Leo",
+      "subtitle": "Serras ao entardecer",
+      "category": "Pré-wedding",
+      "cover": "assets/photos/gal_11.jpg"
+    },
+    {
+      "title": "Nina & Caio",
+      "subtitle": "Celebração ao ar livre",
+      "category": "Casamento",
+      "cover": "assets/photos/gal_12.jpg"
+    },
+    {
+      "title": "Maya & Oli",
+      "subtitle": "Dia leve no parque",
+      "category": "Família",
+      "cover": "assets/photos/gal_13.jpg"
+    }
+  ]
+}
